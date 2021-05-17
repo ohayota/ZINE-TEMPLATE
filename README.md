@@ -3,6 +3,8 @@
 ProcessingでZINEのPDFを書き出すためのプログラム．
 使い方については [Wiki](https://github.com/ohayota/ZINE-TEMPLATE/wiki) を参照してください．
 
+![出力画像](https://github.com/ohayota/ZINE-TEMPLATE/wiki/images/Page11.png)
+
 ## 使用フォント
 
 下記フォントをインストールした上で実行してください．
