@@ -1,6 +1,7 @@
 # ZINE-TEMPLATE
 
-ProcessingでZINEのPDFを書き出すためのプログラム
+ProcessingでZINEのPDFを書き出すためのプログラム．
+使い方については [Wiki](https://github.com/ohayota/ZINE-TEMPLATE/wiki) を参照してください．
 
 ## 使用フォント
 
